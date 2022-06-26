@@ -9,7 +9,7 @@ The subject of this first project can be found in the pdf named "Project3_Subjec
 
 ## Files
 
-1. Folder /Project : main.c, tetris.h, tetris.c
+1. Folder /Tetris : main.c, tetris.h, tetris.c
 2. Report
 
 ---
